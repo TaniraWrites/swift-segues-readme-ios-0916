@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+// Read!
 class FruitViewController: UIViewController {
     @IBOutlet weak var fruitEmojiLabel: UILabel!
     @IBOutlet weak var fruitNameLabel: UILabel!
